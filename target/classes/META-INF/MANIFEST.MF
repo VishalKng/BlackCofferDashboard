@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Vishal
+Build-Jdk: 17.0.5
+Implementation-Title: spring-boot-google-charts-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.asbnotebook
+Implementation-URL: https://spring.io/projects/spring-boot/spring-boot-g
+ oogle-charts-example
+Created-By: Maven Integration for Eclipse
+
